@@ -24,7 +24,7 @@
   --background-color: #f1f5f4; /* Background color for the entire website, including individual sections */
   --default-color: #212529; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #2d465e; /* Color for headings, subheadings and title throughout the website */
-  --accent-color: #b10026; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --accent-color: #fa7592; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
@@ -1962,10 +1962,33 @@ section,
   justify-content: center;
   align-items: center;
   padding: 1.5rem;
-  background-color: var(--accent-color);
+  
   color: var(--contrast-color);
   text-align: center;
   min-width: 100px;
+}
+/* .events .event-card .event-date #monday #Tuesday #wednesday #thursday #friday #saturday #sunday */
+
+.events .event-card #monday{
+  background-color: rgb(190, 14, 14);
+}
+.events .event-card #Tuesday{
+  background-color: rgb(214, 3, 197);
+}
+.events .event-card #wednesday{
+  background-color: rgb(1, 201, 61);
+}
+.events .event-card #thursday{
+  background-color: rgb(190, 55, 14);
+}
+.events .event-card #friday{
+  background-color: rgb(3, 164, 212);
+}
+.events .event-card #saturday{
+  background-color: rgb(143, 2, 224);
+}
+.events .event-card #sunday{
+  background-color: rgb(250, 212, 0);
 }
 
 .events .event-card .event-date .month {
