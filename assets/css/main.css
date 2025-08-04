@@ -25,7 +25,7 @@
   --default-color: #212529; /* Default color used for the majority of the text content across the entire website */
   --heading-color: #2d465e; /* Color for headings, subheadings and title throughout the website */
   --accent-color: #ff9d2c; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
-  --accent-color: #fa7592; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
+  --accent-color: #ff9d2c; /* Accent color that represents your brand on the website. It's used for buttons, links, and other elements that need to stand out */
   --surface-color: #ffffff; /* The surface color is used as a background of boxed elements within sections, such as cards, icon boxes, or other elements that require a visual separation from the global background. */
   --contrast-color: #ffffff; /* Contrast color for text, ensuring readability against backgrounds of accent, heading, or default colors. */
 }
@@ -37,11 +37,11 @@
   --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #212529; /* Used for navigation links of the dropdown items in the navigation menu. */
   --nav-dropdown-hover-color: #ff9d2c; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
-  --nav-hover-color: #fa7592; /* Applied to main navmenu links when they are hovered over or active */
+  --nav-hover-color: #ff9d2c; /* Applied to main navmenu links when they are hovered over or active */
   --nav-mobile-background-color: #ffffff; /* Used as the background color for mobile navigation menu */
   --nav-dropdown-background-color: #ffffff; /* Used as the background color for dropdown items that appear when hovering over primary navigation items */
   --nav-dropdown-color: #212529; /* Used for navigation links of the dropdown items in the navigation menu. */
-  --nav-dropdown-hover-color: #fa7592; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
+  --nav-dropdown-hover-color: #ff9d2c; /* Similar to --nav-hover-color, this color is applied to dropdown navigation links when they are hovered over. */
 
 }
 
